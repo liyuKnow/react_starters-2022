@@ -1,8 +1,10 @@
-
+import {Typography} from '@mui/material'
 
 function App() {
   return (
-    <h1>Hello React Starter</h1>
+    <Typography variant="h1" component="h2">
+      Hello React MUI Starter
+    </Typography>
   );
 }
 

@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <h1>Hello React Starter</h1>
+    <h1 className="text-2xl text-green-400">Hello React Tailwind Starter</h1>
   );
 }
 

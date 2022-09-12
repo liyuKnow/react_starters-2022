@@ -1,0 +1,15 @@
+.container {
+    max-width: 90%;
+    margin: auto;
+
+    .header {
+        background-color: rgb(121, 219, 219);
+        padding: 20px 30px ;
+    }
+
+    .title {
+        font-size: 2rem;
+        font-family: sans-serif;
+        color: rgb(123, 117, 117);
+    }
+}

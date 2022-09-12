@@ -1,8 +1,12 @@
-
+import './App.scss'
 
 function App() {
   return (
-    <h1>Hello React Starter</h1>
+    <div className="container">
+      <div className="header">
+        <h1 className="title">Hello Sass!</h1>
+      </div>
+    </div>
   );
 }
 
